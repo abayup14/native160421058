@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val test1 = "tes apakah masuk??"
+        val test2 = "masuk mazzehh"
     }
 }
