@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         val test1 = "tes apakah masuk??"
         val test2 = "masuk mazzehh"
+        val hendra = "ok"
     }
 }
